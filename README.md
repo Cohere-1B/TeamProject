@@ -4,4 +4,4 @@
 
 Google Colab (https://colab.research.google.com/drive/1saWd4OvidkpzgWAW3TEEeZWHAhMxORqf?usp=sharing)
 
-**Tasks for Sprint 1**
+**INSERT DESCRIPTION**
